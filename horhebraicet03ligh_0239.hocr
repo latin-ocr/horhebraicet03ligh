@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./horhebraicet03ligh/horhebraicet03ligh_0239.png"; bbox 0 0 1945 3256; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 741 950 1020 1002">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 741 950 1020 1002">
+     <span class='ocr_line' id='line_1_1' title="bbox 741 950 1020 1002; baseline 0 -1"><span class='ocrx_word' id='word_1_1' title='bbox 741 950 1020 1002; x_wconf 82' lang='lat' dir='ltr'><strong>HORAE</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 377 1123 1382 1178">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 377 1123 1382 1178">
+     <span class='ocr_line' id='line_1_2' title="bbox 377 1123 1382 1178; baseline 0.001 -10"><span class='ocrx_word' id='word_1_2' title='bbox 377 1123 744 1170; x_wconf 80' lang='lat' dir='ltr'><strong>HEBRAIOAE</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 796 1124 877 1169; x_wconf 88' lang='lat' dir='ltr'><strong>ET</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 928 1123 1382 1178; x_wconf 79' lang='lat' dir='ltr'>TALMUDIOAE;</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 150 1434 1612 1682">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 150 1434 1612 1682">
+     <span class='ocr_line' id='line_1_3' title="bbox 150 1434 1612 1512; baseline 0.001 -3"><span class='ocrx_word' id='word_1_5' title='bbox 150 1434 609 1510; x_wconf 82' lang='lat' dir='ltr'>HEBREW</span> <span class='ocrx_word' id='word_1_6' title='bbox 664 1436 869 1511; x_wconf 77' lang='grc' dir='ltr'><strong>ΛΝΒ</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 933 1436 1612 1512; x_wconf 75' lang='lat' dir='ltr'><strong>TALMUDIOAL</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 510 1618 1243 1682; baseline 0.003 -2"><span class='ocrx_word' id='word_1_8' title='bbox 510 1618 1243 1682; x_wconf 77' lang='lat' dir='ltr'><strong>EXERCITATIONS</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 763 1805 1011 1832">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 763 1805 1011 1832">
+     <span class='ocr_line' id='line_1_5' title="bbox 763 1805 1011 1832; baseline 0 -1"><span class='ocrx_word' id='word_1_9' title='bbox 763 1805 852 1832; x_wconf 91' lang='lat' dir='ltr'><strong>UPO</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 862 1805 1011 1831; x_wconf 85' lang='grc' dir='ltr'>ΝΝΝΝ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 420 1952 1356 2002">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 420 1952 1356 2002">
+     <span class='ocr_line' id='line_1_6' title="bbox 420 1952 1356 2002; baseline 0.003 -4"><span class='ocrx_word' id='word_1_11' title='bbox 420 1952 748 1999; x_wconf 79' lang='lat' dir='ltr'>GOSPEL</span> <span class='ocrx_word' id='word_1_12' title='bbox 807 1953 907 2000; x_wconf 91' lang='lat' dir='ltr'><strong>OF</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 972 1956 1071 2001; x_wconf 80' lang='lat' dir='ltr'><strong>ST.</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 1116 1956 1356 2002; x_wconf 71' lang='lat' dir='ltr'><strong>JOHN‚</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

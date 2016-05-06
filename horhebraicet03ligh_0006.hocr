@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./horhebraicet03ligh/horhebraicet03ligh_0006.png"; bbox 0 0 1945 3256; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 763 2400 1292 2457">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 763 2400 1292 2457">
+     <span class='ocr_line' id='line_1_1' title="bbox 763 2400 1292 2457; baseline -0.029 -6.855"><span class='ocrx_word' id='word_1_1' title='bbox 763 2403 1110 2457; x_wconf 58' lang='lat' dir='ltr'>mumma</span> <span class='ocrx_word' id='word_1_2' title='bbox 1137 2400 1292 2449; x_wconf 37' lang='lat' dir='ltr'>21¹1&lt;st</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 921 2469 1225 2556">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 921 2469 1225 2556">
+     <span class='ocr_line' id='line_1_2' title="bbox 921 2469 1225 2556; baseline -0.032 -8.684"><span class='ocrx_word' id='word_1_3' title='bbox 921 2469 958 2556; x_wconf 35' lang='lat'>2*</span> <span class='ocrx_word' id='word_1_4' title='bbox 966 2494 1068 2551; x_wconf 59' lang='grc' dir='ltr'>Νι</span> <span class='ocrx_word' id='word_1_5' title='bbox 1107 2491 1225 2548; x_wconf 70' lang='lat' dir='ltr'><em>w</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1184 2581 1285 2606">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1184 2581 1285 2606">
+     <span class='ocr_line' id='line_1_3' title="bbox 1184 2581 1285 2606; baseline -0.036 0"><span class='ocrx_word' id='word_1_6' title='bbox 1184 2591 1201 2606; x_wconf 72' lang='grc' dir='ltr'>θ</span> <span class='ocrx_word' id='word_1_7' title='bbox 1217 2581 1285 2603; x_wconf 48' lang='lat'>¹5.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1940 3256">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1940 3256">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1940 3256; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 0 0 1940 3256; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
